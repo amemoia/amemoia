@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi! 👋
+I'm Remi and I code sometimes
 
-<!--
-**notLeM/notLeM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
-Here are some ideas to get you started:
+- 😄 Pronouns: she/her
+- 📫 Twitter: [@_notLeM](https://twitter.com/_notlem)
+- 💬 Discord: remi#0158
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Projects
+Not working on much at the moment, trying to focus on school
+### 🌱 Things I'm learning...
+- C#
+- Unity game development
+- Unreal engine blueprints
+### ⚡ Things I (kind of) learned
+- Python
+- HTML
+- CSS
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notLeM&show_icons=true&theme=tokyonight)
