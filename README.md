@@ -5,7 +5,7 @@ I'm Remi and I code sometimes
 
 - 😄 Pronouns: she/her
 - 📫 Twitter: [@_notLeM](https://twitter.com/_notlem)
-- 💬 Discord: lem#7777
+- 💬 Discord: lem#6068
 
 ### 🔭 Current Projects
 Not working on much at the moment, trying to focus on school
