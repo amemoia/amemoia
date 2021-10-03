@@ -1,5 +1,5 @@
 ### Hi! 👋
-I'm Remi and I code sometimes
+I'm Ann and I code sometimes
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
@@ -9,10 +9,7 @@ I'm Remi and I code sometimes
 
 ### 🔭 Current Projects
 Not working on much at the moment, trying to focus on school
-### 🌱 Things I'm learning...
-- C#
-- Unity game development
-- Unreal engine blueprints
+
 ### ⚡ Things I (kind of) learned
 - Python
 - HTML
