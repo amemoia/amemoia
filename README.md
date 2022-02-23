@@ -5,10 +5,10 @@ I'm Ann and I code sometimes
 
 - 😄 Pronouns: she/her
 - 📫 Twitter: [@_notLeM](https://twitter.com/_notlem)
-- 💬 Discord: lem#6068
+- 💬 Discord: annie#0676
 
 ### 🔭 Current Projects
-Not working on much at the moment, trying to focus on school
+Not working on much at the moment, trying to focus on school and mental health
 
 ### ⚡ Things I (kind of) learned
 - Python
