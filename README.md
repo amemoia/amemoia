@@ -4,7 +4,7 @@ I'm Ann and I code sometimes
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
 - 😄 Pronouns: she/her
-- 📫 Twitter: [@_notLeM](https://twitter.com/_notlem)
+- 📫 Twitter: [@xanaxkittycat](https://twitter.com/xanaxkittycat)
 - 💬 Discord: annie#0676
 
 ### 🔭 Current Projects
