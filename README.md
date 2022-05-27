@@ -5,7 +5,7 @@ I'm Ann and I code sometimes
 
 - 😄 Pronouns: she/her
 - 📫 Twitter: [@xanaxkittycat](https://twitter.com/xanaxkittycat)
-- 💬 Discord: annie#0676
+- 💬 Discord: annie#0767
 
 ### 🔭 Current Projects
 Not working on much at the moment, trying to focus on school and mental health
