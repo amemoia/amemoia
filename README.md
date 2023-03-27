@@ -15,4 +15,4 @@ Not working on much at the moment, trying to focus on school
 - CSS
 - SQL (T-SQL & MySQL)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notLeM&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amemoia&show_icons=true&theme=tokyonight)
