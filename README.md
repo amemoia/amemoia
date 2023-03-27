@@ -1,12 +1,12 @@
 ### Hi! 👋
-I'm Ann and I code sometimes
+I code sometimes.
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
-💬 Discord: annie#0767
+💬 Discord: amemoia#0767
 
 ### 🔭 Current Projects
-Not working on much at the moment, trying to focus on school and mental health
+Not working on much at the moment, trying to focus on school
 
 ### ⚡ Things I (kind of) learned
 - Python
